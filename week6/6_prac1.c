@@ -13,3 +13,4 @@ int main(){
     printf("Row Average = %5.2f\n",avg);
     return 0;
 }
+
