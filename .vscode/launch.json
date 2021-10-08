@@ -20,7 +20,7 @@
           "ignoreFailures": true
         }
       ],
-      "preLaunchTask": "C/C++: g++.exe 활성 파일 빌드"
+      "preLaunchTask": "save and compile for C++"
     },
     {
       "name": "C/C++ Runner: Debug Session",
